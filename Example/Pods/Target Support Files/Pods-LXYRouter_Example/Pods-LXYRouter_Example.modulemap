@@ -1,0 +1,6 @@
+framework module Pods_LXYRouter_Example {
+  umbrella header "Pods-LXYRouter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

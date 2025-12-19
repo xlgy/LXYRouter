@@ -1,0 +1,6 @@
+framework module LXYRouter {
+  umbrella header "LXYRouter-umbrella.h"
+
+  export *
+  module * { export * }
+}
